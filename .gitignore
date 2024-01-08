@@ -1,0 +1,9 @@
+*.o
+*Tester
+*.a
+a.out
+*test*
+*Tester
+.vscode
+*.txt
+checker*
