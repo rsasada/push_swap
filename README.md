@@ -2,8 +2,7 @@
 
 The **push_swap** project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
 
-This project contains 2 programs:
-- The first, named **checker** which takes integer arguments and reads instructions on the standard output. Once read,checker executes them and displays `OK` if integersare sorted. Otherwise, it will display `KO`.
+This project contains １ programs:
 - The second one called **push_swap** which calculates and displays on the standard output the smallest progam using *push_swap instruction language* that sorts inte-ger arguments received.
 
 ## push_swap instructions
@@ -22,17 +21,11 @@ This project contains 2 programs:
 
 ## Compilation
 
-Compile checker: `make checker`
-
-Compile push_swap: `make push_swap`
-
-Compile both: `make`
+Compile : `make`
 
 ## Execute
 
-checker: `./checker 0 2 3 1` then program's waiting for user input
-
-push_swap: `./push_swap 0 2 3 1`
+push_swap: `./push_swap 0 2 3 1　 9 10 5 6 `
 
 Note: You can also use debug option `-v` as first parameter to see stacks operations
 
